@@ -2,7 +2,7 @@
 A simple Password Generator created using Vanilla JavaScript, HTML and CSS
 
 ## Password Generator Image
-![Password Generator](/images/generator_layout.png)
+![Password Generator](generator_layout.PNG)
 
 ## How to use it
 Users can select -
