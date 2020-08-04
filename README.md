@@ -12,4 +12,5 @@ Users can select -
 * Are numbers letters needed?
 * Are special characters letters needed?
 
+To generate password, simply click the 'Generate password' button.
 Password generated can be copied to clipboard using the copy button.
