@@ -1,6 +1,9 @@
 # Password-Generator
 A simple Password Generator created using Vanilla JavaScript, HTML and CSS
 
+## Password Generator Image
+![Password Generator](/images/generator_layout.png)
+
 ## How to use it
 Users can select -
 * Length of password (between 4 and 20)
